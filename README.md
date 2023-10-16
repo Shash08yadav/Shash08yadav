@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **DSA, Web Development and more**
 
-- 📫 How to reach me **shashwat455jnp@gmail.com**
+- 📫 How to reach me **shashwat55jnp@gmail.com**
 
 - ⚡ Fun fact **Cricket**
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shash08yadav4&label=Profile%20views&color=0e75b6&style=flat" alt="Shash08yadav" /> </p>
